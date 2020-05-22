@@ -1,12 +1,12 @@
 
 
 - layout: col-sidebar
-- title: "OWASP Mombasa" 
+- title: " OWASP Mombasa " 
 - tags: example-tag
-- region: "Mombasa, Kenya" 
+- region: " Mombasa, Kenya " 
 
 
-{salim.md}
+{copy for this file (salim.md)}
 
 
 ## Welcome 

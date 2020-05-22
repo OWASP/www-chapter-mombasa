@@ -1,9 +1,9 @@
 
 
--layout: col-sidebar
--title: OWASP Mombasa" 
--tags: example-tag
--region: Mombasa, Kenya
+- layout: col-sidebar
+- title: OWASP Mombasa 
+- tags: example-tag
+- region: Mombasa, Kenya
 
 
 {salim.md}

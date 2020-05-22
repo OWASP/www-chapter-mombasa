@@ -1,15 +1,15 @@
 
 
 - layout: col-sidebar
-- title: OWASP Mombasa 
+- title: "OWASP Mombasa" 
 - tags: example-tag
-- region: Mombasa, Kenya
+- region: "Mombasa, Kenya" 
 
 
 {salim.md}
 
 
-## Welcome OWASP MOMBASA
+## Welcome 
 Welcome to the Mombasa chapter homepage. We are looking for dedicated group of application security professionals and IT enthusiasts, we'd love to have you join us. 
 
 ## Participation

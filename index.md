@@ -27,4 +27,5 @@ Everyone is Welcome and encouraged to participate in our [Projects] (/projects),
 
 Links 
 
-{leaders.md} 
+### Leaders
+* [Salim Mwachuo](mailto:salim.mwachu@owasp.org)

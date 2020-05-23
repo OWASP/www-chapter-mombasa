@@ -1,2 +1,2 @@
 ### Leaders
-* [Salim Mwachu](mailto:salim.mwachu@owasp.org)
+* [Salim Mwachuo](mailto:salim.mwachu@owasp.org)

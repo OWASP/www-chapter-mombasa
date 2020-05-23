@@ -1,14 +1,12 @@
 
 
 layout: col-sidebar
-title: OWASP London
+title: OWASP Mombasa 
 tag: Mombasa 
 region: Africa
 
 
-
-<!-- rebuild -->
-
+</div>
 
 
 

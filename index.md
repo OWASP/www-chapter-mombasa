@@ -6,7 +6,7 @@ tag: Mombasa
 region: Africa
 
 
-</div>
+<index.md>
 
 
 

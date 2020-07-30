@@ -1,13 +1,11 @@
-
+---
 
 layout: col-sidebar
 title: OWASP Mombasa 
 tag: Mombasa 
 region: Africa
 
-
-<index.md>
-
+---
 
 
 ## Welcome 
